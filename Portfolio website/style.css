@@ -1,0 +1,11 @@
+
+h1{
+    color: aqua;
+}
+.border{
+   border-color:red green blue yellow; 
+   border-top-style:dotted;
+   border-bottom-style:groove;
+   border-left-style:double ;
+   border-right-style:dashed;
+}

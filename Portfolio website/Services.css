@@ -1,0 +1,17 @@
+body{
+  background-image: url("Images/bb.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+.containers{
+  display:flex  ;
+  
+  
+}
+.box{
+    flex:1;
+    height:60%;
+    width:50%;
+}

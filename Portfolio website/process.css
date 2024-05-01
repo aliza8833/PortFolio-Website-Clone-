@@ -1,0 +1,26 @@
+body{
+  background-image: url("Images/back9.jpg");  
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;  
+}
+.containers{
+    display:flex  ;
+
+  }
+  .box{
+      flex:1;
+      height:60%;
+      width:50%;
+      border-radius: 70px;
+      background-color:rgb(116, 177, 174);
+     
+  }
+  .arrow{
+    flex:1;
+    margin-top: 170px;
+    margin-left: 70px;
+  
+
+  }
+  
